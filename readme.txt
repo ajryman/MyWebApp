@@ -1,2 +1,3 @@
 # MyWebApp
-Create conflict
+updated readme, create new branch and pull request
+conflict resolved
